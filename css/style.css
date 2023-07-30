@@ -826,7 +826,7 @@ button.hire-btn{
         height: 200px;
     }
     .column-2 .form-2 .inputGroup{
-        border: 1px solid #ddd;
+        border: 1px solid var(--text-clr);
     }
     /* contact section ends */
 }
